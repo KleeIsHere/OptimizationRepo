@@ -13,7 +13,9 @@ class Kazuha:
 
     def __init__(self, LVL):
         self.LVL = LVL
-        
+
+    def method(test):
+        return test
 
 
 
